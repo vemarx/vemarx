@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a Software Development student and translator as a full-time job! 
+😄 Pronouns: she/her
+📫 How to reach me: vemarx.dev@gmail.com
+
+
 <!--
 **vemarx/vemarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

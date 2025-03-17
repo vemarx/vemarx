@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
 
-#I'm a Software Development student and translator as a full-time job!
-#😄 Pronouns: she/her
-#📫 How to reach me: vemarx.dev@gmail.com
+I'm a Software Development student and translator as a full-time job!
+
 
 
 <!--

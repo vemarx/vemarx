@@ -1,6 +1,6 @@
-## Hi there 👋 
+## Hi there 👋 I'm a Software Development student and a translator EN<>PTBR.
 
-I'm a Software Development student and translator as a full-time job!
+
 
 
 

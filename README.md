@@ -1,11 +1,11 @@
 ## Hi stranger!😄
+🔭 I’m currently working on new projects!
 
 ### :computer: Linkedin https://www.linkedin.com/in/vemarx/
 
 ### :bar_chart: Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vemarx&show_icons=true&count_private=true)](https://github.com/vemarx/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vemarx&layout=compact&count_private=true)](https://github.com/vemarx/github-readme-stats)
-
 
 
 <!--

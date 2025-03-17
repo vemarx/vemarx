@@ -1,6 +1,11 @@
 ## Hi stranger!😄
 
+### :computer: Social Media
+[<img src="https://raw.githubusercontent.com/vemarx/vemarx/master/assets/linkedin.svg" width="50">](https://www.linkedin.com/in/vemarx/)
 
+### :bar_chart: Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipez3r0&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipez3r0&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

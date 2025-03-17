@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Software Development student and a translator EN<>PTBR.
+## Hi stranger!😄
 
 
 

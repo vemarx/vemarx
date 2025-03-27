@@ -1,5 +1,9 @@
 ## Hi stranger!😄
-🔭 I’m currently working on new projects!
+🚀 Passionate about technology!
+
+💻 C, JS, PHP, Python, HTML & CSS.
+
+📌 Focused on learning and growing!
 
 ### :computer: Linkedin https://www.linkedin.com/in/vemarx/
 

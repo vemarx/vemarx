@@ -5,7 +5,7 @@
 
 📌 Focused on learning and growing!
 
-### [<img src="https://raw.githubusercontent.com/vemarx/vemarx/master/assets/linkedin.svg" width="50">](https://linkedin.com/in/vemarx)
+https://linkedin.com/in/vemarx
 
 ### :bar_chart: Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vemarx&show_icons=true&count_private=true)](https://github.com/vemarx/github-readme-stats)
